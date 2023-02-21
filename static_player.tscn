@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b24km5fsdv45f"]
+
+[ext_resource type="Texture2D" uid="uid://df0oarvyn5tka" path="res://assets/Player/StaticPlayer/StaticPlayer.png" id="1_px2jd"]
+
+[node name="StaticPlayer" type="Sprite2D"]
+texture_filter = 1
+position = Vector2(176, 139)
+texture = ExtResource("1_px2jd")
